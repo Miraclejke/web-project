@@ -1,0 +1,1 @@
+﻿export const APP_STORAGE_KEY = 'gymhelper-app-state-v2';
